@@ -22,4 +22,4 @@ Mechanized rotary pounders for white Guinea yam (*Dioscorea rotundata*) frequent
 ## 🚀 Usage & Reproduction
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/dada-samuel-yam-ml/rotary-pounder-regression.git](https://github.com/dada-samuel-yam-ml/rotary-pounder-regression.git)
+   git clone (https://github.com/samdad0/rotary-pounder-regression)
